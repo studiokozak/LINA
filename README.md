@@ -95,7 +95,7 @@ Links the WEJŚCIE (Input) and WYJŚCIE (Output) controls. When enabled, increas
 
 ---
 
-### Peak Meter
+### Meter
 
 Provides visual feedback on the output level while shaping tone and driving the tube stage.
 
