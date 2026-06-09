@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="Captures/LINA_01.png">
+  <img src="Captures/LINA_Interface_Overhaul.png">
 </p>
 
 <p align="center">
